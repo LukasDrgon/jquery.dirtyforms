@@ -47,7 +47,7 @@ Existing solutions were not flexible enough, so Dirty Forms was created to suppo
 
 There are several different ways to get the code. Some examples below:
 
-#### CDN
+#### CDN [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/jquery.dirtyforms/badge)](https://www.jsdelivr.com/package/npm/jquery.dirtyforms)
 Dirty Forms is available over jsDelivr CDN and can directly be included on every page.
 ```HTML
 <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.dirtyforms/2.0.0/jquery.dirtyforms.min.js"></script>
@@ -89,7 +89,7 @@ PM> Install-Package jquery.dirtyforms
 
 A [SourceMap](https://docs.google.com/document/d/1U1RGAehQwRypUTovF1KRlpiOFze0b-_2gc6fAH0KY0k/edit?hl=en_US&pli=1&pli=1) file is also available via CDN or your favorite package manager.
 
-#### CDN
+#### CDN  [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/jquery.dirtyforms/badge)](https://www.jsdelivr.com/package/npm/jquery.dirtyforms)
 
 ```HTML
 <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.dirtyforms/2.0.0/jquery.dirtyforms.min.js.map"></script>
